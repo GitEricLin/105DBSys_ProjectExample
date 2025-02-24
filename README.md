@@ -81,5 +81,3 @@
 7. If the name exists in the database, the name will be displayed on the page.
 
 ---
-
-This translation maintains the original structure and instructions provided in the Chinese version.
